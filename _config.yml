@@ -1,5 +1,5 @@
-title: "Rui Liu's Homepage"
-author: "Rui Liu"
+title: "Feisi Fu's Homepage"
+author: "Feisi Fu"
 description: "External Links"
 permalink: /:title/
 lang: "en"
@@ -16,12 +16,12 @@ minimal: false            # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", url: "http://ruiliu00.github.io/CV.pdf"}
+  - {title: "CV", url: "http://fufeisi.github.io/CV.pdf"}
   - {file: "publications.md", title: "Publications"}
   - {file: "experience.md", title: "Experience"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:rliu@bu.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:fufeisi@bu.edu"}
   - {title: Linkedin, icon: linkedin-in, url: "https://www.linkedin.com/in/rui-liu-23420a1a5/"}
   - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=fU2mL7UAAAAJ&hl=en"}
 
