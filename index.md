@@ -16,6 +16,8 @@ title:
     
     <p> <strong>Research Interests:</strong> Machine Learning; Machine Learning Safety; Safe Reinforcement Learning </p>
     
+    <br/>
+    
     <p> <strong>Education:</strong> </p>
     
     <p> 🎓 <a href="http://english.amss.cas.cn" target="_blank">Academy of Mathematics and Systems Science</a>, <a href="https://english.ucas.ac.cn" target="_blank">University of Chinese Academy of Sciences</a>, M.S., Algebraic Geometry (2018) </p>
