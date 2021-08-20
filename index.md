@@ -5,10 +5,10 @@ title:
 
 <div style="clear: both;">
   <div style="float: left; margin-right:20px;">
-    <img src="IMG_0229.jpg" alt="" width="335" height="560">
+    <img src="Feisi_Fu.jpg" alt="" width="230" height="230">
   </div>
   <div>
-    <h1> Rui Liu (刘蕊) </h1>
+    <h1> Feisi Fu </h1>
     
     <h3> Ph.D candidate of <a href="https://www.bu.edu/eng/departments/se/" target="_blank">Systems Engineering</a>, <a href="https://www.bu.edu" target="_blank">Boston University</a> </h3>
     
