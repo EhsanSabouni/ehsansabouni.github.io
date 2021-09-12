@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Updates"
+title: "News"
 ---
 
 [2020/09/01] I worked as a Graduate Teaching Fellow for Optimization Theory and Methods (<a href="https://www.bu.edu/academics/eng/courses/eng-se-524/" target="_blank">ENG SE524</a>, <a href="https://www.bu.edu" target="_blank">Boston University</a>).
