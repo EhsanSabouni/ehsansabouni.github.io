@@ -20,12 +20,6 @@ title:
     
     <br/>
     
-    <p> <strong>Education:</strong> </p>
-    
-    <p> 🎓 <a href="http://english.amss.cas.cn" target="_blank">Academy of Mathematics and Systems Science</a>, <a href="https://english.ucas.ac.cn" target="_blank">University of Chinese Academy of Sciences</a>, M.S., Algebraic Geometry (2018) </p>
-    
-    <p> 🎓<a href="https://math.scu.edu.cn/English.htm" target="_blank">College of Mathematics</a>, <a href="https://en.scu.edu.cn" target="_blank">Sichuan University</a>, B.S., Mathematics and Applied Mathematics (2014)  </p>
-  </div>
-</div>
+    <p> <strong>Selected Papers:</strong> </p>
 
 
