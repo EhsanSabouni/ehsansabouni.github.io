@@ -7,7 +7,7 @@ title: "News"
 
 [2019/09/01] I worked as a Graduate Teaching Fellow for Optimization Theory and Methods (<a href="https://www.bu.edu/academics/eng/courses/eng-se-524/" target="_blank">ENG SE524</a>, <a href="https://www.bu.edu" target="_blank">Boston University</a>).
 
-[2019/06/01] I joined Dependable Computing Lab as a Ph.D. student supervised by <a href="https://www.bu.edu/eng/profile/39799/" target="_blank"> Prof. Wenchao Li </a>.
+[2019/06/01] I joined <a href="https://sites.bu.edu/depend/" target="_blank">Dependable Computing Lab</a> as a Ph.D. student supervised by <a href="https://www.bu.edu/eng/profile/39799/" target="_blank"> Prof. Wenchao Li </a>.
 
 [2019/05/01] I completed Boston University Systems Engineering PhD Qualifying Exam and became a Ph.D candidate of <a href="https://www.bu.edu/eng/departments/se/" target="_blank">Systems Engineering</a>, <a href="https://www.bu.edu" target="_blank">Boston University</a>.
 
