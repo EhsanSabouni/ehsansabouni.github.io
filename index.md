@@ -17,8 +17,8 @@ title:
     <p> <strong>Research Interests:</strong> 
       - Machine Learning
       - Neural Network Repair
-      - Machine Learning Safety
-      - Safe Reinforcement Learning 
+      - Reinforcement Learning
+      - Safe Reinforcement Learning
     </p>
     
     <br/>
