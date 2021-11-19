@@ -2,7 +2,7 @@
 layout: page
 title: "News"
 ---
-[2021/10] We have a new paper “Sound and Complete Neural Network Repair with Minimality and Locality Guarantees” [<a href="https://arxiv.org/abs/2110.07682" target="_blank">PDF</a>].
+[2021/10] I have a new paper “Sound and Complete Neural Network Repair with Minimality and Locality Guarantees” [<a href="https://arxiv.org/abs/2110.07682" target="_blank">PDF</a>].
 
 [2020/09] I worked as a Graduate Teaching Fellow for Optimization Theory and Methods (<a href="https://www.bu.edu/academics/eng/courses/eng-se-524/" target="_blank">ENG SE524</a>, <a href="https://www.bu.edu" target="_blank">Boston University</a>).
 
