@@ -2,7 +2,7 @@
 layout: page
 title: "News"
 ---
-[2021/10] Our paper “Sound and Complete Neural Network Repair with Minimality and Locality Guarantees” [<a href="https://arxiv.org/abs/2110.07682" target="_blank">PDF</a>] is accepted to ICLR'22.
+[2022/01] Our paper “Sound and Complete Neural Network Repair with Minimality and Locality Guarantees” [<a href="https://arxiv.org/abs/2110.07682" target="_blank">PDF</a>] is accepted to ICLR'22.
 
 [2021/10] I have a new paper “Sound and Complete Neural Network Repair with Minimality and Locality Guarantees” [<a href="https://arxiv.org/abs/2110.07682" target="_blank">PDF</a>].
 
