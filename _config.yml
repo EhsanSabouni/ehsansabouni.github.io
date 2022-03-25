@@ -16,7 +16,7 @@ minimal: false            # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-#   - {title: "CV", url: "http://fufeisi.github.io/CV.pdf"}
+   - {title: "CV", url: "http://fufeisi.github.io/FeisiFuCV.pdf"}
   - {file: "publications.md", title: "Publications"}
   - {file: "updates.md", title: "News"}
 
