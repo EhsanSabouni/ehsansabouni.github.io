@@ -6,6 +6,8 @@ title: "News"
 
 [2022/08] I joined <a href="https://about.meta.com" target="_blank">Meta</a> as a research scientist intern in <a href="https://pytorch.org/docs/stable/quantization.html" target="_blank">PyTorch Architecture Optimization Term</a>.
 
+[2022/08] I have a new paper “A Tool for Neural Network Global Robustness Certification and Training” [<a href="https://arxiv.org/abs/2208.07289" target="_blank">PDF</a>].
+
 [2022/01] Our paper “Sound and Complete Neural Network Repair with Minimality and Locality Guarantees” [<a href="https://arxiv.org/abs/2110.07682" target="_blank">PDF</a>] is accepted to ICLR'22.
 
 [2021/10] I have a new paper “Sound and Complete Neural Network Repair with Minimality and Locality Guarantees” [<a href="https://arxiv.org/abs/2110.07682" target="_blank">PDF</a>].
