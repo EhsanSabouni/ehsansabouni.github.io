@@ -33,3 +33,5 @@ title:
 <p> <strong>Selected Papers:</strong> </p>
 
 - Feisi Fu, Wenchao Li, "Sound and Complete Neural Network Repair with Minimality and Locality Guarantees", ICLR'22, 2021. [<a href="https://arxiv.org/abs/2110.07682" target="_blank">PDF</a>]
+
+- Feisi Fu, Zhilu Wang, Jiameng Fan, Yixuan Wang,Chao Huang, Qi Zhu, Xin Chen, Wenchao Li, “REGLO: Provable Neural Network Repair for Global Robustness Properties”, Trustworthy and Socially Responsible Machine Learning (TSRML) at NeurIPS 2022.
