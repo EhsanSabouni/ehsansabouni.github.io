@@ -11,6 +11,6 @@ title: "Publications"
   Accept as a workshop paper at Neural Information Processing Systems (NeurIPS), 2022. 
 * **A Tool for Neural Network Global Robustness Certification and Training** [<a href="https://arxiv.org/abs/2208.07289" target="_blank">PDF</a>]
   <br> Zhilu Wang, Yixuan Wang, Feisi Fu, Ruochen Jiao, Chao Huang, Wenchao Li, Qi Zhu
-* **"Dormant Neural Trojans"** [<a href="https://arxiv.org/abs/2211.01808" target="_blank">PDF</a>]
+* **Dormant Neural Trojans** [<a href="https://arxiv.org/abs/2211.01808" target="_blank">PDF</a>]
   <br> Feisi Fu, Panagiota Kiourti, Wenchao Li
 
