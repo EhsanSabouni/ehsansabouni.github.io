@@ -31,6 +31,12 @@ title:
     <br/>
     
 <p> <strong>Selected Papers:</strong>
+ul {
+  list-style-type: disc;
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+}
 
 - Feisi Fu, Wenchao Li, "Sound and Complete Neural Network Repair with Minimality and Locality Guarantees", Accept as a poster paper at International Conference on Learning Representations (ICLR), 2022. [<a href="https://arxiv.org/abs/2110.07682" target="_blank">PDF</a>]
 
