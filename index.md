@@ -29,10 +29,16 @@ title:
   }
 </style>
 
-<ul>
+<!-- <ul>
   <li> <strong> Feisi Fu, Wenchao Li, "Sound and Complete Neural Network Repair with Minimality and Locality Guarantees" </strong>, Accept as a poster paper at International Conference on Learning Representations (ICLR), 2022. [<a href="https://arxiv.org/abs/2110.07682" target="_blank">PDF</a>] </li>
   <li> <strong> Feisi Fu, Zhilu Wang, Jiameng Fan, Yixuan Wang,Chao Huang, Qi Zhu, Xin Chen, Wenchao Li, “REGLO: Provable Neural Network Repair for Global Robustness Properties” </strong>, Accept as a workshop paper at Neural Information Processing Systems (NeurIPS), 2022. [<a href="https://openreview.net/pdf?id=FRTXdodwsoA" target="_blank">PDF</a>] </li>
-</ul>
+</ul> -->
   </p>
   </div>
 </div>
+* **Sound and Complete Neural Network Repair with Minimality and Locality Guarantees** [<a href="https://arxiv.org/abs/2110.07682" target="_blank">PDF</a>]
+  <br> Feisi Fu, Wenchao Li
+  Accept as a poster paper at International Conference on Learning Representations (ICLR), 2022. 
+* **REGLO: Provable Neural Network Repair for Global Robustness Properties** [<a href="https://openreview.net/pdf?id=FRTXdodwsoA" target="_blank">PDF</a>]
+  <br> Feisi Fu, Zhilu Wang, Jiameng Fan, Yixuan Wang, Chao Huang, Qi Zhu, Xin Chen, Wenchao Li
+  Accept as a workshop paper at Neural Information Processing Systems (NeurIPS), 2022. 
