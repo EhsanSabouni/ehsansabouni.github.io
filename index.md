@@ -16,11 +16,11 @@ title:
     
     <p> <strong>Research Interests:</strong>
 
-      <ol>
+      <ul>
         <li> Machine Learning </li>
         <li> Neural Network Repair </li>
         <li> Neural Network Quantization </li>
-      </ol>
+      </ul>
       
     </p>
     
