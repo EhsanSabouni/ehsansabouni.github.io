@@ -15,12 +15,6 @@ title:
     <p> <strong>Advisor:</strong> <a href="https://www.bu.edu/eng/profile/39799/" target="_blank"> Prof. Wenchao Li </a> </p>
     
     <p> <strong>Research Interests:</strong>
-      
-      <style>
-        ol {
-          list-style-type: disc;
-        }
-      </style>
 
       <ol>
         <li> Machine Learning </li>
