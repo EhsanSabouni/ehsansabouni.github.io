@@ -16,7 +16,7 @@ title:
     
     <p> <strong>Research Interests:</strong> 
       <p>
-      <br> Machine Learning
+      Machine Learning
       <br> Neural Network Repair
       <br> Neural Network Quantization
       </p>
