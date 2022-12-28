@@ -14,10 +14,14 @@ title:
     
     <p> <strong>Advisor:</strong> <a href="https://www.bu.edu/eng/profile/39799/" target="_blank"> Prof. Wenchao Li </a> </p>
     
-    <p> Research Interests:
-      * **Machine Learning**
-      * **Neural Network Repair**
-      * **Neural Network Quantization*
+    <p> <strong>Research Interests:
+       <p>
+       &nbsp; Machine Learning
+       <br> &nbsp; Neural Network Repair
+       <br> &nbsp; Neural Network Quantization
+       </p></strong>
+     </p>
+     <br>
 <h3> <strong>Selected Papers:</strong> </h3>
 </div>
 </div>
