@@ -16,8 +16,8 @@ title:
     
     <p> <strong>Research Interests:
        <p>
-       &nbsp; Machine Learning
-       <br> &nbsp; Neural Network Repair
+       &nbsp; Neural Network Post-training
+       <br> &nbsp; Trustworthy A.I.
        <br> &nbsp; Neural Network Quantization
        </p></strong>
      </p>
