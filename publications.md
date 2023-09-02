@@ -8,9 +8,12 @@ title: "Publications"
   <br> Accept as a poster paper at International Conference on Learning Representations (ICLR), 2022. 
 * **REGLO: Provable Neural Network Repair for Global Robustness Properties** [<a href="https://openreview.net/pdf?id=FRTXdodwsoA" target="_blank">PDF</a>]
   <br> Feisi Fu, Zhilu Wang, Jiameng Fan, Yixuan Wang, Chao Huang, Qi Zhu, Xin Chen, Wenchao Li
-  <br> Accept as a workshop paper at Neural Information Processing Systems (NeurIPS), 2022. 
-* **A Tool for Neural Network Global Robustness Certification and Training** [<a href="https://arxiv.org/abs/2208.07289" target="_blank">PDF</a>]
-  <br> Zhilu Wang, Yixuan Wang, Feisi Fu, Ruochen Jiao, Chao Huang, Wenchao Li, Qi Zhu
+  <br> Accept as a workshop paper at Neural Information Processing Systems (NeurIPS), 2022.
 * **Dormant Neural Trojans** [<a href="https://arxiv.org/abs/2211.01808" target="_blank">PDF</a>]
   <br> Feisi Fu, Panagiota Kiourti, Wenchao Li
+  <br> Accept as a long paper at International Conference on Machine Learning and Applications (IEEE ICMLA), 2023.
+* **OVLA: Neural Network Ownership Verification using Latent Watermarks** [<a href="https://arxiv.org/abs/2306.13215" target="_blank">PDF</a>]
+  <br> Feisi Fu, Wenchao Li
+* **A Tool for Neural Network Global Robustness Certification and Training** [<a href="https://arxiv.org/abs/2208.07289" target="_blank">PDF</a>]
+  <br> Zhilu Wang, Yixuan Wang, Feisi Fu, Ruochen Jiao, Chao Huang, Wenchao Li, Qi Zhu
 
