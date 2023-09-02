@@ -2,6 +2,8 @@
 layout: page
 title: "News"
 ---
+[2023/08] Our paper **Dormant Neural Trojans** has been accepted as a long paper at **International Conference on Machine Learning and Applications (IEEE ICMLA), 2023**.
+
 [2022/11] I have a new paper Dormant Neural Trojans [<a href="https://arxiv.org/abs/2211.01808" target="_blank">PDF</a>].
 
 [2022/10] Our paper **REGLO: Provable Neural Network Repair for Global Robustness Properties** has been accepted as a workshop paper at **Neural Information Processing Systems (NeurIPS), 2022**.
