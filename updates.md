@@ -2,7 +2,7 @@
 layout: page
 title: "News"
 ---
-[2023/09] I joined ByteDance as a research intern in Machine Learning Infra Team.
+[2023/09] I joined **<a href="https://www.bytedance.com/en/" target="_blank">Bytedance</a> as a research intern in Machine Learning Infra Team**.
 
 [2023/08] Our paper **Dormant Neural Trojans** has been accepted as a long paper at **International Conference on Machine Learning and Applications (IEEE ICMLA), 2023**.
 
