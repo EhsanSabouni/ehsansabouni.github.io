@@ -2,6 +2,8 @@
 layout: page
 title: "News"
 ---
+[2023/09] I joined ByteDance as a research intern in Machine Learning Infra Team.
+
 [2023/08] Our paper **Dormant Neural Trojans** has been accepted as a long paper at **International Conference on Machine Learning and Applications (IEEE ICMLA), 2023**.
 
 [2022/11] I have a new paper Dormant Neural Trojans [<a href="https://arxiv.org/abs/2211.01808" target="_blank">PDF</a>].
