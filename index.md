@@ -30,4 +30,4 @@ title:
   <br> Accept as a poster paper at **International Conference on Learning Representations (ICLR), 2022**. 
 * **REGLO: Provable Neural Network Repair for Global Robustness Properties** [<a href="https://openreview.net/pdf?id=FRTXdodwsoA" target="_blank">PDF</a>]
   <br> Feisi Fu, Zhilu Wang, Jiameng Fan, Yixuan Wang, Chao Huang, Qi Zhu, Xin Chen, Wenchao Li
-  <br> Accept as a workshop paper at **Neural Information Processing Systems (NeurIPS), 2022**. 
+  <br> Accepted at AAAI Conference on Artificial Intelligence (AAAI), 2024**. 
