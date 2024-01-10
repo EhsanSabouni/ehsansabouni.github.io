@@ -14,9 +14,10 @@ title: "Publications"
   <br> IFAC-PapersOnLine 56 (2), 2353-2358
 * **Optimal Control of Connected Automated Vehicles with Event/Self-Triggered Control Barrier Functions** [<a href="https://arxiv.org/abs/2209.13053" target="_blank">PDF</a>]
   <br> E Sabouni, CG Cassandras, W Xiao, N Meskin
+    <br> about to appear on Automatica 2024
 * **Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions** [<a href="https://arxiv.org/pdf/2401.02306.pdf" target="_blank">PDF</a>]
   <br> HM Ahmad, E Sabouni, A Dickson, W Xiao, CG Cassandras, W Li
-  <br> about to appear on Automatica 2024
+  https://github.com/anonymousCoder29/VehicleSec24/assets/155138234/92f9cb4a-9a17-420d-b1bc-72e778d40022
 * **Trust-Aware Resilient Control and Coordination of Connected and Automated Vehicles** [<a href="https://arxiv.org/pdf/2305.16818.pdf" target="_blank">PDF</a>]
   <br> HM Ahmad, E Sabouni, W Xiao, CG Cassandras, W Li
     <br> Accepted at 26th IEEE International Conference on Intelligent Transportation Systems ITSC 2023.
