@@ -8,11 +8,11 @@ title:
     <img src="Feisi_Fu.JPG" alt="" width="230" height="230">
   </div>
   <div>
-    <h1> Feisi Fu </h1>
+    <h1> Ehsan Sabouni </h1>
     
     <h3> Ph.D candidate of <a href="https://www.bu.edu/eng/departments/se/" target="_blank">Systems Engineering</a>, <a href="https://www.bu.edu" target="_blank">Boston University</a> </h3>
     
-    <p> <strong>Advisor:</strong> <a href="https://www.bu.edu/eng/profile/39799/" target="_blank"> Prof. Wenchao Li </a> </p>
+    <p> <strong>Advisor:</strong> <a href="https://www.bu.edu/eng/profile/39799/" target="_blank"> Prof. Christos Cassandras </a> </p>
     
     <p> <strong>Research Interests:
        <p>
