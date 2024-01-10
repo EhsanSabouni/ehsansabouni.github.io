@@ -18,10 +18,9 @@ title: "Publications"
 * **Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions** [<a href="https://arxiv.org/pdf/2401.02306.pdf" target="_blank">PDF</a>]
   <br> HM Ahmad, E Sabouni, A Dickson, W Xiao, CG Cassandras, W Li
   
-  <video controls autoplay>
+  <video  width="100" height="100" controls autoplay>
   <source src="http://ehsansabouni.github.io/video1.mp4" type="video/mp4">
-</video>
-
+  
 * **Trust-Aware Resilient Control and Coordination of Connected and Automated Vehicles** [<a href="https://arxiv.org/pdf/2305.16818.pdf" target="_blank">PDF</a>]
   <br> HM Ahmad, E Sabouni, W Xiao, CG Cassandras, W Li
     <br> Accepted at 26th IEEE International Conference on Intelligent Transportation Systems ITSC 2023.
