@@ -14,4 +14,4 @@ title: "News"
 
 [2019/05] I got admission to the PhD program in <a href="https://www.bu.edu/eng/departments/se/" target="_blank">Systems Engineering</a> at <a href="https://www.bu.edu" target="_blank">Boston University</a>.
 
-[2014/07] I graduated from <a href="https://math.scu.edu.cn/English.htm" target="_blank">College of Mathematics</a>, <a href="https://en.scu.edu.cn" target="_blank">Sichuan University</a> and got the degree of **B.S. of Mathematics with distinction**.
+[2014/07] I graduated from <a href="https://math.scu.edu.cn/English.htm" target="_blank"> Department of Electrical and Computer Engineering</a>, <a href="https://english.iut.ac.ir/Department-of-Electrical-Computer-Engineering" target="_blank">Isfhan University of Technology</a> and got the degree of **B.S. of Electrical Engineering**.
