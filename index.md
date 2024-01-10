@@ -5,7 +5,7 @@ title:
 
 <div style="clear: both;">
   <div style="float: left; margin-right:20px;">
-    <img src="Feisi_Fu.JPG" alt="" width="230" height="230">
+    <img src="Ehsan_Sabouni.JPG" alt="" width="230" height="230">
   </div>
   <div>
     <h1> Ehsan Sabouni </h1>
