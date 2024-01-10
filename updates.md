@@ -4,7 +4,7 @@ title: "News"
 ---
 [2023/07] Our paper **Optimal control of connected automated vehicles with event-triggered control barrier functions: a test bed for safe optimal merging** was selected as the outstanding student paper award at **2023 IEEE Conference on Control Technology and Applications (CCTA), 321-326**
 
-[2022/09] I worked as a Graduate Teaching Fellow for Probability with statistical applications (<a href="https://www.bu.edu/academics/eng/courses/eng-ek-500/" target="_blank">ENG SE524</a>, <a href="https://www.bu.edu" target="_blank">Boston University</a>).
+[2022/09] I worked as a Graduate Teaching Fellow for Probability with statistical applications (<a href="https://www.bu.edu/academics/eng/courses/eng-ek-500/" target="_blank">ENG EK 500</a>, <a href="https://www.bu.edu" target="_blank">Boston University</a>).
 
 [2021/09] I worked as a Graduate Teaching Fellow for Dynamical systems (<a href="https://www.bu.edu/academics/eng/courses/eng-se-501/" target="_blank">ENG SE501</a>, <a href="https://www.bu.edu" target="_blank">Boston University</a>).
 
