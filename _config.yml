@@ -1,5 +1,5 @@
-title: "Feisi Fu's Homepage"
-author: "Feisi Fu"
+title: "Ehsan Sabouni's Homepage"
+author: "Ehsan Sabouni"
 description: "External Links"
 permalink: /:title/
 lang: "en"
@@ -21,9 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "updates.md", title: "News"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:fufeisi@bu.edu"}
-  - {title: Linkedin, icon: linkedin-in, url: "https://www.linkedin.com/in/feisifu/"}
-  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=9wJGIOoAAAAJ"}
+  - {title: Mail, icon: envelope, url: "mailto:esabouni@bu.edu"}
+  - {title: Linkedin, icon: linkedin-in, url: "https://www.linkedin.com/in/ehsansabouni/"}
+  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=4ZFF1_sAAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
