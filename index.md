@@ -28,6 +28,6 @@ title:
 * **Sound and Complete Neural Network Repair with Minimality and Locality Guarantees** [<a href="https://arxiv.org/abs/2110.07682" target="_blank">PDF</a>]
   <br> Feisi Fu, Wenchao Li
   <br> Accept as a poster paper at **International Conference on Learning Representations (ICLR), 2022**. 
-* **REGLO: Provable Neural Network Repair for Global Robustness Properties** [<a href="https://openreview.net/pdf?id=FRTXdodwsoA" target="_blank">PDF</a>]
-  <br> Feisi Fu, Zhilu Wang, Jiameng Fan, Yixuan Wang, Chao Huang, Qi Zhu, Xin Chen, Wenchao Li
-  <br> Accepted at **AAAI Conference on Artificial Intelligence (AAAI), 2024**. 
+* **Optimal Control of Connected Automated Vehicles with Event/Self-Triggered Control Barrier Functions** [<a href="https://arxiv.org/abs/2209.13053" target="_blank">PDF</a>]
+  <br> E Sabouni, CG Cassandras, W Xiao, N Meskin
+    <br> about to appear on Automatica 2024
