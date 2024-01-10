@@ -12,13 +12,14 @@ title:
     
     <h3> Ph.D candidate of <a href="https://www.bu.edu/eng/departments/se/" target="_blank">Systems Engineering</a>, <a href="https://www.bu.edu" target="_blank">Boston University</a> </h3>
     
-    <p> <strong>Advisor:</strong> <a href="https://www.bu.edu/eng/profile/39799/" target="_blank"> Prof. Christos Cassandras </a> </p>
+    <p> <strong>Advisor:</strong> <a href="https://christosgcassandras.org/" target="_blank"> Prof. Christos Cassandras </a> </p>
     
     <p> <strong>Research Interests:
        <p>
-       &nbsp; Neural Network Post-training
-       <br> &nbsp; Trustworthy A.I.
-       <br> &nbsp; Neural Network Quantization
+       &nbsp; Safety-critical systems
+       <br> &nbsp; Autonomous driving
+       <br> &nbsp; Multi-agent systems
+       <br> &nbsp; Reinforcement learning
        </p></strong>
      </p>
      <br>
