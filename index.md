@@ -26,6 +26,7 @@ title:
 <h3> <strong>Selected Papers:</strong> </h3>
 </div>
 </div>
+
 <p align="center">
   <img src="video.gif">
 </p>
