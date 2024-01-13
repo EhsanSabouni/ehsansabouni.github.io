@@ -23,7 +23,7 @@ title:
        </p></strong>
      </p>
      <br>
-<h3> <strong>Selected Projects:</strong> </h3>
+<h3> <strong>Selected Papers:</strong> </h3>
 </div>
 </div>
 <p align="center">
