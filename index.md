@@ -29,6 +29,7 @@ title:
 <p align="center">
   <img src="video.gif">
 </p>
+
 * **Optimal control of connected automated vehicles with event-triggered control barrier functions: a test bed for safe optimal merging** [<a href="https://ieeexplore.ieee.org/abstract/document/10253379" target="_blank">PDF</a>]
   <br> E Sabouni, HMS Ahmad, W Xiao, CG Cassandras, W Li
   <br> 2023 IEEE Conference on Control Technology and Applications (CCTA), 321-326.
