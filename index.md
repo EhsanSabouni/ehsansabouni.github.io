@@ -23,7 +23,7 @@ title:
        </p></strong>
      </p>
      <br>
-<h3> <strong>Selected Papers:</strong> </h3>
+<h3> <strong>Selected Projects:</strong> </h3>
 </div>
 </div>
 * **Optimal control of connected automated vehicles with event-triggered control barrier functions: a test bed for safe optimal merging** [<a href="https://ieeexplore.ieee.org/abstract/document/10253379" target="_blank">PDF</a>]
