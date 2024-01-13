@@ -38,6 +38,5 @@ title:
   <br> E Sabouni, CG Cassandras, W Xiao, N Meskin
     <br> about to appear on Automatica 2024
 
-* **Evaluations of cyberattacks on cooperative control of connected and autonomous vehicles at bottleneck points** [<a href="https://www.ndss-symposium.org/wp-content/uploads/2023/02/vehiclesec2023-23082-paper.pdf" target="_blank">PDF</a>]
-<br> HS Ahmad, E Sabouni, W Xiao, CG Cassandras, W Li
-<br> Symposium on Vehicles Security and Privacy (VehicleSec) 2023
+* **Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions** [<a href="https://arxiv.org/pdf/2401.02306.pdf" target="_blank">PDF</a>]
+  <br> HM Ahmad, E Sabouni, A Dickson, W Xiao, CG Cassandras, W Li
