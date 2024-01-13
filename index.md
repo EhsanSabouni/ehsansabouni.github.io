@@ -38,5 +38,5 @@ title:
   <br> E Sabouni, CG Cassandras, W Xiao, N Meskin
     <br> about to appear on Automatica 2024
 
-* **Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions** [<a href="https://arxiv.org/pdf/2401.02306.pdf" target="_blank">PDF</a>][<a href="https://github.com/SabbirAhmad26/Trust_based_CBF.git" target=" blank" code </a>]
+* **Secure Control of Connected and Automated Vehicles Using Trust-Aware Robust Event-Triggered Control Barrier Functions** [<a href="https://arxiv.org/pdf/2401.02306.pdf" target="_blank">PDF</a>] [<a href="https://github.com/SabbirAhmad26/Trust_based_CBF.git" target=" blank"> code </a>]
   <br> HM Ahmad, E Sabouni, A Dickson, W Xiao, CG Cassandras, W Li
