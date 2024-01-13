@@ -32,9 +32,11 @@ title:
 * **Optimal control of connected automated vehicles with event-triggered control barrier functions: a test bed for safe optimal merging** [<a href="https://ieeexplore.ieee.org/abstract/document/10253379" target="_blank">PDF</a>]
   <br> E Sabouni, HMS Ahmad, W Xiao, CG Cassandras, W Li
   <br> 2023 IEEE Conference on Control Technology and Applications (CCTA), 321-326.
+  
 * **Optimal Control of Connected Automated Vehicles with Event/Self-Triggered Control Barrier Functions** [<a href="https://arxiv.org/abs/2209.13053" target="_blank">PDF</a>]
   <br> E Sabouni, CG Cassandras, W Xiao, N Meskin
     <br> about to appear on Automatica 2024
+
 * **Evaluations of cyberattacks on cooperative control of connected and autonomous vehicles at bottleneck points** [<a href="https://www.ndss-symposium.org/wp-content/uploads/2023/02/vehiclesec2023-23082-paper.pdf" target="_blank">PDF</a>]
 <br> HS Ahmad, E Sabouni, W Xiao, CG Cassandras, W Li
 <br> Symposium on Vehicles Security and Privacy (VehicleSec) 2023
