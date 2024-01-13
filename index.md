@@ -30,12 +30,7 @@ title:
   <br> E Sabouni, HMS Ahmad, W Xiao, CG Cassandras, W Li
   <br> 2023 IEEE Conference on Control Technology and Applications (CCTA), 321-326.
 
-<div style="display: inline-block; margin-right: 10px;">
-  <img src="video1.gif" alt="Alt text 1">
-</div>
-<div style="display: inline-block;">
-  <img src="video1.gif" alt="Alt text 2">
-</div>
+![Alt text 1](video.gif)
 
 * **Optimal Control of Connected Automated Vehicles with Event/Self-Triggered Control Barrier Functions** [<a href="https://arxiv.org/abs/2209.13053" target="_blank">PDF</a>]
   <br> E Sabouni, CG Cassandras, W Xiao, N Meskin
