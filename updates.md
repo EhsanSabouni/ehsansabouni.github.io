@@ -2,6 +2,11 @@
 layout: page
 title: "News"
 ---
+[07/2024] One paper on Reinforcement Learning based Receding Horizon Control using Adaptive Control Barrier Functions has been accpeted in CDC 2024. (<a href="https://arxiv.org/abs/2403.17338" target="_blank">Link</a>).
+[05/2024] Our work was covered by BU College of Engineering [X] [LinkedIn].
+[05/2024] We won IEEE CSS TC Outstanding Student Paper prize for 2024 for our paper titled: "Optimal Control of Connected Automated Vehicles with Event-Triggered Control Barrier Functions: a Test Bed for Safe Optimal Merging" [paper] [News].
+[03/2024] Our work was featured in the opening ceremony of BU's new RASTIC Lab founded in 2022 with a $8.8 million capital investment from the Innovation Institute at the Massachusetts Technology Collaborative (MassTech) and Boston University [Link].
+
 [2023/07] Our paper **Optimal control of connected automated vehicles with event-triggered control barrier functions: a test bed for safe optimal merging** was selected as the outstanding student paper award at **2023 IEEE Conference on Control Technology and Applications (CCTA), 321-326**
 
 [2022/09] I worked as a Graduate Teaching Fellow for Probability with statistical applications (<a href="https://www.bu.edu/academics/eng/courses/eng-ek-500/" target="_blank">ENG EK 500</a>, <a href="https://www.bu.edu" target="_blank">Boston University</a>).
