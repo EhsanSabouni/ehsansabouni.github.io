@@ -3,9 +3,12 @@ layout: page
 title: "News"
 ---
 [07/2024] One paper on Reinforcement Learning based Receding Horizon Control using Adaptive Control Barrier Functions has been accpeted in CDC 2024. (<a href="https://arxiv.org/abs/2403.17338" target="_blank">Link</a>).
-[05/2024] Our work was covered by BU College of Engineering [X] [LinkedIn].
-[05/2024] We won IEEE CSS TC Outstanding Student Paper prize for 2024 for our paper titled: "Optimal Control of Connected Automated Vehicles with Event-Triggered Control Barrier Functions: a Test Bed for Safe Optimal Merging" [paper] [News].
-[03/2024] Our work was featured in the opening ceremony of BU's new RASTIC Lab founded in 2022 with a $8.8 million capital investment from the Innovation Institute at the Massachusetts Technology Collaborative (MassTech) and Boston University [Link].
+
+[05/2024] Our work was covered by BU College of Engineering [<a href="https://x.com/BUCollegeofENG/status/1803075639970615796" target="_blank">X</a>] [<a href="https://x.com/BUCollegeofENG/status/1803075639970615796" target="_blank">LinkedIn</a>].
+
+[05/2024] We won IEEE CSS TC Outstanding Student Paper prize for 2024 for our paper titled: "Optimal Control of Connected Automated Vehicles with Event-Triggered Control Barrier Functions: a Test Bed for Safe Optimal Merging" [<a href="https://ieeexplore.ieee.org/abstract/document/10253379" target="_blank">paper</a>] [<a href="https://www.bu.edu/cise/cise-students-win-css-tc-2024-paper-prize/" target="_blank">News</a>].
+
+[03/2024] Our work was featured in the opening ceremony of BU's new RASTIC Lab founded in 2022 with a $8.8 million capital investment from the Innovation Institute at the Massachusetts Technology Collaborative (MassTech) and Boston University [<a href="https://www.bu.edu/cise/rastic-grand-opening-a-new-robot-exploration-and-testing-facility-for-students/" target="_blank">News</a>].
 
 [2023/07] Our paper **Optimal control of connected automated vehicles with event-triggered control barrier functions: a test bed for safe optimal merging** was selected as the outstanding student paper award at **2023 IEEE Conference on Control Technology and Applications (CCTA), 321-326**
 
